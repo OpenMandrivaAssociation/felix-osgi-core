@@ -7,7 +7,7 @@ Release: 14.1%{?dist}
 Summary: Felix OSGi R4 Core Bundle
 
 License: ASL 2.0
-URL:     http://felix.apache.org/site/apache-felix-osgi-core.html
+URL:     https://felix.apache.org/site/apache-felix-osgi-core.html
 Source0: http://www.apache.org/dist/felix/%{bundle}-%{version}-project.tar.gz
 
 BuildArch: noarch
